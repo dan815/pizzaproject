@@ -1,0 +1,19 @@
+2019-09-15 20:21:35 WARN  PizzaOrderController:82 - This topping is currently unavailable, try again later!, Choice: 1341
+2019-09-15 20:29:40 INFO  PizzaOrderController:110 - Object has been serialized 
+2019-09-15 20:29:40 INFO  PizzaOrderController:111 - Pizza = Pizza: dough + Tomato Sauce + Green Pepper + Pepperoni
+2019-09-15 20:29:40 INFO  PizzaOrderController:112 - Price = 6.7
+2019-09-15 20:29:45 INFO  PizzaOrderController:136 - Object has been serialized 
+2019-09-15 20:29:45 INFO  PizzaOrderController:137 - Pizza = Pizza: dough + Tomato Sauce + Green Pepper + Pepperoni
+2019-09-15 20:29:45 INFO  PizzaOrderController:138 - Price = 6.7
+2019-09-15 20:29:45 INFO  PizzaOrderController:87 - Current Order: 
+2019-09-15 20:29:45 INFO  PizzaOrderController:89 - Cost: 6.7 Pizza: dough + Tomato Sauce + Green Pepper + Pepperoni
+2019-09-15 20:46:46 INFO  PizzaOrderController:139 - Object has been serialized from savePizzaOrder() 
+2019-09-15 20:46:46 INFO  PizzaOrderController:140 - Pizza = Pizza: dough + Tomato Sauce
+2019-09-15 20:46:46 INFO  PizzaOrderController:141 - Price = 5.0
+2019-09-15 20:46:46 INFO  PizzaOrderController:87 - Current Order: 
+2019-09-15 20:46:46 INFO  PizzaOrderController:89 - Cost: 5.0 Pizza: dough + Tomato Sauce
+2019-09-15 20:48:30 INFO  PizzaOrderController:139 - Object has been serialized from savePizzaOrder() 
+2019-09-15 20:48:30 INFO  PizzaOrderController:140 - Pizza = Pizza: dough + Tomato Sauce
+2019-09-15 20:48:30 INFO  PizzaOrderController:141 - Price = 5.0
+2019-09-15 20:48:30 INFO  PizzaOrderController:87 - Current Order: 
+2019-09-15 20:48:30 INFO  PizzaOrderController:89 - Cost: 5.0 Pizza: dough + Tomato Sauce
